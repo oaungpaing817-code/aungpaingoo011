@@ -1,0 +1,25 @@
+ please slect folder lcation
+ open termial
+ git clone url (github repo)
+ git status
+ git add
+ git commit -m "message"
+
+
+
+ new repo
+ =====
+ local folder
+ git init
+ git remote add origin url(gitthub repo)
+ git remote show orign
+ git add .
+ git commit -m " "
+git push -u " "
+
+
+
+git branch
+git checkout -b branch name
+git chockout main
+
